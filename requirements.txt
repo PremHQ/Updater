@@ -1,0 +1,4 @@
+OS : Debian 11+
+RAM : 512 MB
+Storage Space : 10MB
+python should be installed 
