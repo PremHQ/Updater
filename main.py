@@ -1,5 +1,3 @@
-# source file
-
 # Source file
 
 import tkinter as tk
